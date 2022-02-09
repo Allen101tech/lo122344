@@ -1,0 +1,60 @@
+h1::first-letter{
+  font-size:2em;
+  
+}
+
+
+
+Body{
+  background-color:antiquewhite;
+  
+}
+
+nav a{
+  border: deeppink double;
+  color-adjust: inherit;
+  border-collapse: collapse;
+  color:black;
+  background-color: honeydew;
+  margin: 20px;
+  text-decoration: none;
+}
+
+nav a:hover{
+  background-color: aquamarine;
+  color:black;
+}
+
+nav a:active{
+  background-color: pink;
+  color: rgb(0, 110, 255);
+}
+
+
+p{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h3{
+  margin: 10px;
+  padding: 15px;
+   
+
+}
+img{
+  border: powderblue double 10px;
+  border-collapse: true;
+  
+}
+
+iframe{
+  padding: 1%;
+  border: palevioletred double;
+ 
+}
+
+h4{
+  position: relative;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
